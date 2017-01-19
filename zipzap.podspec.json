@@ -41,5 +41,6 @@
     "frameworks": [
       "ApplicationServices"
     ]
-  }
+  },
+  "module_name": "ZipZap"
 }
